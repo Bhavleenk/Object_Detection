@@ -1,11 +1,11 @@
 # Harmful Object Detection
+* Custom-trained, compared and combined various Object Detection Models to improve the Intersection over Union (IoU) score of output to ~89% and ~87% for both prediction classes.
+* Developed a User-friendly Web Interface where users can seamlessly upload videos and images for harmful or illegal object detection like guns and knives, ensuring enhanced safety and security.
+#### Domains: Computer Vision, Object Detection, RCNN
+
 #### Classes: 
 * Harmful/Illegal: Guns & Knives
 * Non-Harmful 
-#### Domains: Computer Vision, Object Detection, RCNN
-
-* Custom-trained, compared and combined various Object Detection Models to improve the Intersection over Union (IoU) score of output to ~89% and ~87% for both prediction classes.
-* Developed a User-friendly Web Interface where users can seamlessly upload videos and images for harmful or illegal object detection like guns and knives, ensuring enhanced safety and security.
 
 ## Fusion Model Outputs :
 ####  • Confusion Matrix  IoU Score - 
